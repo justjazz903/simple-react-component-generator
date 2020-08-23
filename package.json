@@ -21,5 +21,6 @@
   "license": "ISC",
   "dependencies": {
     "esm": "^3.2.25"
-  }
+  },
+  "git repository": "https://github.com/justjazz903/simple-react-component-generator.git"
 }
